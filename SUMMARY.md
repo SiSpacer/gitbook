@@ -20,9 +20,24 @@
 * [для Gnome](pervichnaya-nastroika/dlya-gnome.md)
 * [для KDE](pervichnaya-nastroika/dlya-kde.md)
 
+## Команды
+
+* [Apt](komandy/apt.md)
+
 ## Терминал
 
 * [Page 1](terminal/page-1.md)
+
+## Обновление Системы и приложений
+
+* [Page 2](obnovlenie-sistemy-i-prilozhenii/page-2.md)
+
+## Драйвера
+
+* [ЦП и Чипсет](draivera/cp-i-chipset.md)
+* [ВидеоКарта](draivera/videokarta.md)
+* [Принтеры](draivera/printery.md)
+* [Блютус](draivera/blyutus.md)
 
 ## Приложение
 
