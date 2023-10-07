@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/debian-logo-1024x576.png
+cover: ../../.gitbook/assets/debian-logo-1024x576.png
 coverY: 0
 ---
 
