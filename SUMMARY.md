@@ -66,6 +66,8 @@
   * [Wine / Proton](prilozhenie/wine-proton.md)
 * [Програмирование](prilozhenie/programirovanie.md)
   * [IDE](prilozhenie/programirovanie/ide.md)
+* [Прочее](prilozhenie/prochee/README.md)
+  * [Установка Графические и оконные менеджеры](prilozhenie/prochee/ustanovka-graficheskie-i-okonnye-menedzhery.md)
 
 ## WSL
 
