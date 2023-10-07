@@ -43,13 +43,13 @@
   * FreeBSD https://www.freebsd.org/
   * Slackware http://www.slackware.com/
   * Solaris https://www.oracle.com/solaris/solaris11/
-* Примечание&#x20;
+* Примечание
   * KDE Neon - это дистрибутив 1-го источника графического окружение KDE, но базируется на репозиториях ubuntu
-    * Deepin - это дистрибутив 1-го источника графического окружение DDE
-      * OpenSUSE - больше всего делает в окружение KDE
-      * fedora - это дистрибудив и полигон обкатки новых фишек gnome для компание
-      * Red Hat CentOS - это дистрибудив под крылом Red Hat
-      * ClearOS - Это дистрибутив компании INTEL
-      * Solaris - Это дистрибутив компании Oracle
-      * Дерево дистрибутивов https://ru.wikipedia.org/wiki/Linux#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Linux\_Distribution\_Timeline\_Dec.\_2020.svg
-      * А и к добавлению Chrome OS, Android OS, Mac OS, iOS – это тоже линукс дистрибутивы
+  * Deepin - это дистрибутив 1-го источника графического окружение DDE
+  * OpenSUSE - больше всего делает в окружение KDE
+  * fedora - это дистрибудив и полигон обкатки новых фишек gnome для компание
+  * Red Hat CentOS - это дистрибудив под крылом Red Hat
+  * ClearOS - Это дистрибутив компании INTEL
+  * Solaris - Это дистрибутив компании Oracle
+  * Дерево дистрибутивов https://ru.wikipedia.org/wiki/Linux#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Linux\_Distribution\_Timeline\_Dec.\_2020.svg
+  * А и к добавлению Chrome OS, Android OS, Mac OS, iOS – это тоже линукс дистрибутивы
