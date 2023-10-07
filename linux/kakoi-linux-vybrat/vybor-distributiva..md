@@ -1,6 +1,16 @@
 # Выбор дистрибутива.
 
-* Debian https://www.debian.org/&#x20;
+* ## Arch Linux
+* ## &#x20;Debian&#x20;
+  * ## Ubuntu&#x20;
+    * ## Kubuntu
+* ## Основанные на Gentoo
+* ## Основанные на Mandriva
+* ## Red Hat&#x20;
+  * ## Fedora
+* ## Основанные на Ubuntu
+* ##
+* ## Debian https://www.debian.org/&#x20;
 * Ubuntu \[GNOME, Unity] https://ubuntu.com/&#x20;
 * Lubuntu&#x20;
 * Xubuntu&#x20;
