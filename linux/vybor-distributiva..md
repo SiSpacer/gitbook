@@ -1,4 +1,4 @@
-# 🚀 Выбор дистрибутива.
+# Выбор дистрибутива.
 
 * Debian https://www.debian.org/&#x20;
 * Ubuntu \[GNOME, Unity] https://ubuntu.com/&#x20;
