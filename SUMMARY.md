@@ -8,15 +8,15 @@
 * [💖 Выбор Рабочего окружения или Оконного Менеджера](soderzhanie/vybor-rabochego-okruzheniya-ili-okonnogo-menedzhera.md)
 * [Скачиваем](soderzhanie/skachivaem.md)
 
-## Team
+## Репозитории
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [👋 Debian](repozitorii/debian.md)
 
-## Collaborating
+## Приложение
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [Офис](prilozhenie/ofis.md)
+* [Графика](prilozhenie/grafika.md)
 
-## Policies
+## О Авторе
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 Связь с Автором](o-avtore/svyaz-s-avtorom.md)
