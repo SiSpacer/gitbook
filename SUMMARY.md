@@ -4,9 +4,9 @@
 
 ## Linux
 
-* [Какой Linux Выбрать](linux/kakoi-linux-vybrat.md)
-* [Выбор Рабочего окружения или Оконного Менеджера](linux/vybor-rabochego-okruzheniya-ili-okonnogo-menedzhera.md)
-* [Выбор дистрибутива.](linux/vybor-distributiva..md)
+* [Какой Linux Выбрать](linux/kakoi-linux-vybrat/README.md)
+  * [Выбор Рабочего окружения или Оконного Менеджера](linux/kakoi-linux-vybrat/vybor-rabochego-okruzheniya-ili-okonnogo-menedzhera.md)
+  * [Выбор дистрибутива.](linux/kakoi-linux-vybrat/vybor-distributiva..md)
 * [Скачиваем](linux/skachivaem.md)
 * [Делаем Болванку или USB](linux/delaem-bolvanku-ili-usb.md)
   * [CD / DVD](linux/delaem-bolvanku-ili-usb/cd-dvd.md)
@@ -67,7 +67,7 @@
 * [Програмирование](prilozhenie/programirovanie.md)
   * [IDE](prilozhenie/programirovanie/ide.md)
 
-## WSL&#x20;
+## WSL
 
 * [Page 3](wsl/page-3.md)
 
