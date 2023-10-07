@@ -95,19 +95,3 @@ deb-src http://deb.debian.org/debian bookworm-backports main contrib non-free no
 `https://wiki.it-kb.ru/unix-linux/debian/bookworm/linux-how-to-add-debian-12-bookworm-default-repos`
 
 
-
-
-
-
-
-
-
-👋 Head of Product — 💌 stefan@company.com — 🇫🇷 Marseille (GMT+1)
-
-![](https://images.unsplash.com/photo-1601935111741-ae98b2b230b0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8\&ixlib=rb-1.2.1\&auto=format\&fit=crop\&w=2970\&q=80)
-
-#### Bio
-
-{% hint style="info" %}
-**GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
