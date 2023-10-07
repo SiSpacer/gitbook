@@ -2,10 +2,6 @@
 
 * [🐧 Добро пожаловать если вы выбрали Linux!](README.md)
 
-## О проекте
-
-* [Правила нашего проекта](o-proekte/pravila-nashego-proekta.md)
-
 ## Linux
 
 * [Какой Linux Выбрать](linux/kakoi-linux-vybrat.md)
@@ -53,6 +49,10 @@
 * [Debian](repozitorii/debian.md)
 * [Ubuntu](repozitorii/ubuntu.md)
 * [Fedora](repozitorii/fedora.md)
+
+## О проекте
+
+* [Правила нашего проекта](o-proekte/pravila-nashego-proekta.md)
 
 ## О Авторе
 
