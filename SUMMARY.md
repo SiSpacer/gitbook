@@ -9,8 +9,8 @@
 ## Linux
 
 * [Какой Linux Выбрать](linux/kakoi-linux-vybrat.md)
-* [Выбор дистрибутива.](linux/vybor-distributiva..md)
 * [Выбор Рабочего окружения или Оконного Менеджера](linux/vybor-rabochego-okruzheniya-ili-okonnogo-menedzhera.md)
+* [Выбор дистрибутива.](linux/vybor-distributiva..md)
 * [Скачиваем](linux/skachivaem.md)
 * [Делаем Болванку или USB](linux/delaem-bolvanku-ili-usb.md)
 * [Установка](linux/ustanovka.md)
