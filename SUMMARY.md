@@ -6,7 +6,10 @@
 
 * [Какой Linux Выбрать](linux/kakoi-linux-vybrat/README.md)
   * [Выбор Рабочего окружения или Оконного Менеджера](linux/kakoi-linux-vybrat/vybor-rabochego-okruzheniya-ili-okonnogo-menedzhera.md)
-  * [Выбор дистрибутива.](linux/kakoi-linux-vybrat/vybor-distributiva..md)
+  * [Выбор дистрибутива.](linux/kakoi-linux-vybrat/vybor-distributiva./README.md)
+    * [Выбираем Ubuntu](linux/kakoi-linux-vybrat/vybor-distributiva./vybiraem-ubuntu.md)
+    * [Выбираем Fedora](linux/kakoi-linux-vybrat/vybor-distributiva./vybiraem-fedora.md)
+    * [Выбрали Astra Linux common-edition](linux/kakoi-linux-vybrat/vybor-distributiva./vybrali-astra-linux-common-edition.md)
 * [Скачиваем](linux/skachivaem.md)
 * [Делаем Болванку или USB](linux/delaem-bolvanku-ili-usb.md)
   * [CD / DVD](linux/delaem-bolvanku-ili-usb/cd-dvd.md)
