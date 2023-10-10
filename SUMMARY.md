@@ -75,6 +75,7 @@
 
 ## О проекте
 
+* [Материал был взят из источников](o-proekte/material-byl-vzyat-iz-istochnikov.md)
 * [Правила нашего проекта](o-proekte/pravila-nashego-proekta.md)
 
 ## О Авторе
