@@ -1,10 +1,8 @@
 # Table of contents
 
-* [🐧 Добро пожаловать если вы выбрали Linux!](README.md)
-
 ## Linux
 
-* [Какой Linux Выбрать](linux/kakoi-linux-vybrat/README.md)
+* [Какой Linux Выбрать](README.md)
   * [Выбор Рабочего окружения или Оконного Менеджера](linux/kakoi-linux-vybrat/vybor-rabochego-okruzheniya-ili-okonnogo-menedzhera.md)
   * [Выбор дистрибутива.](linux/kakoi-linux-vybrat/vybor-distributiva./README.md)
     * [Выбираем Ubuntu](linux/kakoi-linux-vybrat/vybor-distributiva./vybiraem-ubuntu.md)
@@ -28,34 +26,23 @@
 
 * [Apt](komandy/apt.md)
 
-## Терминал
-
-* [Page 1](terminal/page-1.md)
-
 ## Обновление Системы и приложений
 
 * [Page 2](obnovlenie-sistemy-i-prilozhenii/page-2.md)
 
 ## Драйвера
 
-* [ЦП и Чипсет](draivera/cp-i-chipset.md)
 * [ВидеоКарта](draivera/videokarta.md)
   * [AMD](draivera/videokarta/amd.md)
   * [Nvidia](draivera/videokarta/nvidia.md)
   * [intel](draivera/videokarta/intel.md)
 * [Принтеры](draivera/printery.md)
   * [HP](draivera/printery/hp.md)
-* [Блютус](draivera/blyutus.md)
 
 ## Репозитории и другие настройки
 
 * [Репозитории](repozitorii-i-drugie-nastroiki/repozitorii/README.md)
   * [Debian](repozitorii-i-drugie-nastroiki/repozitorii/debian.md)
-  * [Ubuntu](repozitorii-i-drugie-nastroiki/repozitorii/ubuntu.md)
-  * [Fedora](repozitorii-i-drugie-nastroiki/repozitorii/fedora.md)
-  * [Astra Linux](repozitorii-i-drugie-nastroiki/repozitorii/astra-linux.md)
-* [Локальная сеть между 2 пк дома](repozitorii-i-drugie-nastroiki/lokalnaya-set-mezhdu-2-pk-doma.md)
-* [ядро](repozitorii-i-drugie-nastroiki/yadro.md)
 
 ## Приложение
 
@@ -71,17 +58,3 @@
   * [IDE](prilozhenie/programirovanie/ide.md)
 * [Прочее](prilozhenie/prochee/README.md)
   * [Установка Графические и оконные менеджеры](prilozhenie/prochee/ustanovka-graficheskie-i-okonnye-menedzhery.md)
-
-## WSL
-
-* [Page 3](wsl/page-3.md)
-
-## О проекте
-
-* [Материал был взят из источников](o-proekte/material-byl-vzyat-iz-istochnikov.md)
-* [Правила нашего проекта](o-proekte/pravila-nashego-proekta.md)
-
-## О Авторе
-
-* [Связь с Автором](o-avtore/svyaz-s-avtorom.md)
-* [Помощь проекту](o-avtore/pomosh-proektu.md)
