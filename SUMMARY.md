@@ -8,6 +8,7 @@
     * [Выбираем Ubuntu](linux/kakoi-linux-vybrat/vybor-distributiva./vybiraem-ubuntu.md)
     * [Выбираем Fedora](linux/kakoi-linux-vybrat/vybor-distributiva./vybiraem-fedora.md)
     * [Выбрали Astra Linux common-edition](linux/kakoi-linux-vybrat/vybor-distributiva./vybrali-astra-linux-common-edition.md)
+    * [Выбираем NixOS](linux/kakoi-linux-vybrat/vybor-distributiva./vybiraem-nixos.md)
 * [Скачиваем](linux/skachivaem.md)
 * [Делаем Болванку или USB](linux/delaem-bolvanku-ili-usb.md)
   * [CD / DVD](linux/delaem-bolvanku-ili-usb/cd-dvd.md)
