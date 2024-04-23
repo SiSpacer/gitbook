@@ -1,4 +1,10 @@
-# Добро пожаловать на мой гайд по .
+# Добро пожаловать в мой уголок по ПК
+
+Всем привет я SiSpacer кто сюда зашел ко мне тут Я раскажу как настроить ПК и установить ПО.\
+\
+Gitbook: [https://sispacer.gitbook.io/computer-help](https://sispacer.gitbook.io/computer-help)
+
+GiHub : [https://github.com/SiSpacer](https://github.com/SiSpacer)
 
 Вы купили компьютер или Ноутбуку или поченить старый компьютер и хотите самостоятельно поставити операционную систему.
 

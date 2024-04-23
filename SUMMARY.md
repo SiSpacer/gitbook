@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Добро пожаловать на мой гайд по .](README.md)
+* [Добро пожаловать в мой уголок по ПК](README.md)
 * [Условные Обозначение](uslovnye-oboznachenie.md)
 * [Добро пожаловать если вы выбрали Linux!](dobro-pozhalovat-esli-vy-vybrali-linux.md)
 * [Правила нашего проекта](pravila-nashego-proekta.md)
@@ -18,7 +18,7 @@
   * [Page 12](linux/vybiraem-rabochee-okruzhenie-ili-okonnyi-menedzher/page-12.md)
   * [Page 11](linux/vybiraem-rabochee-okruzhenie-ili-okonnyi-menedzher/page-11.md)
   * [Page 10](linux/vybiraem-rabochee-okruzhenie-ili-okonnyi-menedzher/page-10.md)
-  * [Page 9](linux/vybiraem-rabochee-okruzhenie-ili-okonnyi-menedzher/page-9.md)
+  * [HyperLand](linux/vybiraem-rabochee-okruzhenie-ili-okonnyi-menedzher/hyperland.md)
 * [Выбираем Linux](linux/vybiraem-linux/README.md)
   * [Выбираем Дистрибутив](linux/vybiraem-linux/vybiraem-distributiv.md)
   * [Debian](linux/vybiraem-linux/debian.md)
