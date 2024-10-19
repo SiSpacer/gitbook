@@ -21,7 +21,6 @@
   * [HyperLand](linux/vybiraem-rabochee-okruzhenie-ili-okonnyi-menedzher/hyperland.md)
 * [Выбираем Linux](linux/vybiraem-linux/README.md)
   * [Выбираем Дистрибутив](linux/vybiraem-linux/vybiraem-distributiv.md)
-  * [Debian](linux/vybiraem-linux/debian.md)
   * [RedHat](linux/vybiraem-linux/redhat.md)
   * [Nix OS](linux/vybiraem-linux/nix-os.md)
   * [Page 3](linux/vybiraem-linux/page-3.md)
@@ -32,12 +31,6 @@
     * [Alt Linux](linux/vybiraem-linux/russkie-distributivy/alt-linux.md)
     * [Red OS](linux/vybiraem-linux/russkie-distributivy/red-os.md)
     * [Rosa](linux/vybiraem-linux/russkie-distributivy/rosa.md)
-* [Команды](linux/komandy.md)
-
-## Софт
-
-* [Офис](soft/ofis.md)
-* [Графика](soft/grafika.md)
 
 ## О проекте и Авторе
 
